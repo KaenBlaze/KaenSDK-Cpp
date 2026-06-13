@@ -1,6 +1,6 @@
-# RoboOS Robot SDK - C++
+# KaenSDK - C++
 
-C++ SDK for integrating robots into the **RoboOS ($ROS)** ecosystem. RoboOS is a Robotic Payment Operating System that enables robots to coordinate autonomously through economic incentives using blockchain Solana and the x402 stealth payment protocol.
+C++ SDK for integrating robots into the ecosystem. This is a Robotic Payment Operating System that enables robots to coordinate autonomously through economic incentives using blockchain Solana and the x402 stealth payment protocol.
 
 ## Features
 
