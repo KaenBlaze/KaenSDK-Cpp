@@ -156,7 +156,7 @@ The SDK provides pre-built helpers for various robot types:
 - [API Reference](./docs/API.md)
 - [Getting Started Guide](./docs/guides/getting-started.md)
 - [Wallet Setup](./docs/guides/wallet-setup.md)
-- [Payment Channels](./docs/guides/payment-channels.md)
+- [Payment Channels](./docs/guides /payment-channels.md)
 - [Task Bidding](./docs/guides/task-bidding.md)
 
 ## License
@@ -166,7 +166,7 @@ MIT
 ## Support
 
 - Website: [theroboos.com](https://theroboos.com)
-- GitHub: [github.com/roboos/robot-sdk-cpp](https://github.com/roboos/robot-sdk-cpp)
+- GitHub: [github.com/roboos/robot-sdk-cpp](https://github.com/KaenBlaze/KaenSDK-Cpp)
 
-For issues, questions, or contributions, please visit our [GitHub repository](https://github.com/roboos/robot-sdk-cpp).
+For issues, questions, or contributions, please visit our [GitHub repository](https://github.com/KaenBlaze/KaenSDK-Cpp).
 
